@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": "accessToken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaXNzIjoiYWRtaW4iLCJjb21wYW55SWQiOjAsImlzQ3VzdG9tZXIiOmZhbHNlLCJpYXQiOjE2OTk1MjU0OTUsImV4cCI6MTY5OTUyOTA5NX0.GfUQ4oSnYkc4DjJn7cpV0Vl_BPZAq8zIetaOCNnkvgo",
+      "domain": "birdefter.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "refreshToken",
+      "value": "de44a61804b30afd5f0d292bfd647837736670ea89fabcc7ca72a857eed7cb7b",
+      "domain": "birdefter.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "originCompanyId",
+      "value": "0",
+      "domain": "birdefter.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "preferredLanguage",
+      "value": "en",
+      "domain": "birdefter.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "companyId",
+      "value": "13",
+      "domain": "birdefter.dev",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://birdefter.dev",
+      "localStorage": [
+        {
+          "name": "defter-languages",
+          "value": "en"
+        }
+      ]
+    }
+  ]
+}
